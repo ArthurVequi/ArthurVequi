@@ -7,6 +7,10 @@
 - 📫 Como me encontrar?: Minhas redes estão aqui no lado 👈🙂
 </div><br>
 
+## Projetos em destaque:
+https://github.com/ArthurVequi/FACULDADE/blob/1443d86d0fe718494a7a9c48c0596e7ddd746380/TRABALHON2.zip
+https://github.com/ArthurVequi/FACULDADE/blob/1443d86d0fe718494a7a9c48c0596e7ddd746380/CONVERSOR_TERMICO.cs
+
 ### 🚀 Tecnologias que eu conheço:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
