@@ -7,9 +7,12 @@
 - 📫 Como me encontrar?: Minhas redes estão aqui no lado 👈🙂
 </div><br>
 
-## Projetos em destaque:
-https://github.com/ArthurVequi/FACULDADE/blob/1443d86d0fe718494a7a9c48c0596e7ddd746380/TRABALHON2.zip
-https://github.com/ArthurVequi/FACULDADE/blob/1443d86d0fe718494a7a9c48c0596e7ddd746380/CONVERSOR_TERMICO.cs
+## 🚀 Projetos em destaque
+
+- [🔗 Conversor Térmico (C#)](https://github.com/ArthurVequi/FACULDADE/blob/1443d86d0fe718494a7a9c48c0596e7ddd746380/CONVERSOR_TERMICO.cs)  
+  Um programa simples em C# para conversão de temperaturas.
+- [🔗 Trabalho N2 (ZIP)](https://github.com/ArthurVequi/FACULDADE/blob/1443d86d0fe718494a7a9c48c0596e7ddd746380/TRABALHON2.zip)  
+  Trabalho em arquivo ZIP contendo um jogo da forca e um jogo caça níquel em Python
 
 ### 🚀 Tecnologias que eu conheço:
 <div align="center">
