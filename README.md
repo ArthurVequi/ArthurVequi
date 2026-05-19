@@ -1,24 +1,35 @@
-## Olá, bem vindos ao meu GitHub!!
+<div align="center">
+  
+  ## Olá, bem-vindos ao meu GitHub! 👋
+  
+  <h1>Me chamo Arthur Vequi Timoteo 👨‍💻</h1>
 
-<h1 align="center"> Me chamo Arthur Vequi Timoteo👨‍💻</h1> <br>
+  🌱 Cursando Análise e Desenvolvimento de Sistemas (ADS)...
+  
+  💬 Pergunte-me sobre: Web Development, Automações, Banco de Dados, etc.
+  
+  📫 Como me encontrar: Minhas redes sociais estão na lateral esquerda 👈🙂
 
-- 🌱 Cursando ADS...
-- 💬 Me pergunte sobre: Web development, automações, banco de dados, etc...
-- 📫 Como me encontrar?: Minhas redes estão aqui no lado 👈🙂
-</div><br>
+</div>
 
-## 🚀 Projetos em destaque
+<br>
 
-- [🔗 Conversor Térmico (C#)](https://github.com/ArthurVequi/BimblongDJ.git)  
+## 🚀 Projetos em Destaque
+
+- [🔗 BimblongDJ (Python)](https://github.com/ArthurVequi/BimblongDJ)  
   Um bot de música avançado para o Discord construído em Python com IA integrada.
-- [🔗 Trabalho N2 (ZIP)](https://github.com/ArthurVequi/SmartPark.git)  
+
+- [🔗 SmartPark (Python)](https://github.com/ArthurVequi/SmartPark)  
   Sistema de monitoramento e gestão inteligente de vagas de estacionamento usando visão computacional.
 
+<br>
+
 ### 🚀 Tecnologias que eu conheço:
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KQW_PcmefMM8IO05osReJCfY9mD5hvBqtw&s" alt="Extra Logo" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60" height="60"/>
 </div>
