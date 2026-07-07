@@ -64,9 +64,13 @@
 
 <div align="center">
   <a href="https://github.com/ArthurVequi">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArthurVequi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Arthur" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVequi&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
+    <img src="https://github-stats-extended.vercel.app/api?username=ArthurVequi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Arthur" height="150" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArthurVequi&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ArthurVequi&theme=radical&hide_border=true" alt="Streak Stats" height="150" />
 </div>
 
 <br>
