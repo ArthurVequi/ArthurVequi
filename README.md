@@ -1,7 +1,7 @@
 # Olá, bem-vindo(a) ao meu GitHub! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=Arthur%20Vequi%20Timoteo&fontSize=50&animation=fadeIn&fontAlignY=40" alt="Banner Arthur" />
+  <img src="banner.png" alt="Banner Arthur" width="100%" />
 </div>
 
 <br>
