@@ -11,7 +11,7 @@
 <div align="center">
   <h3>👨‍💻 Sobre Mim</h3>
   <p>
-    Sou graduando em <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, focado em criar soluções eficientes,
+    Estou me graduando em <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, focado em criar soluções eficientes,
     automações inteligentes e desenvolvimento web de alta qualidade.
   </p>
 </div>
