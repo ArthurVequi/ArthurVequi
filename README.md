@@ -1,8 +1,10 @@
 # Olá, bem-vindo(a) ao meu GitHub! 👋
 
 <div align="center">
-  <img src="banner.png" alt="Banner Arthur" width="100%" />
+  <img src="github-header-banner.png" alt="Banner Arthur" width="100%" />
 </div>
+
+
 
 <br>
 
